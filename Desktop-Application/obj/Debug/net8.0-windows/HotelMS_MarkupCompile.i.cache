@@ -1,0 +1,20 @@
+﻿HotelMS
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Inshaf Rajayee\Documents\GitHub\Hotel-management-system-\Desktop-Application\obj\Debug\net8.0-windows\
+HotelMS
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\Inshaf Rajayee\Documents\GitHub\Hotel-management-system-\Desktop-Application\App.xaml
+111559071594
+
+23-1486150373
+2181626300043
+AddBookingWindow.xaml;AddGuestWindow.xaml;AddRoomWindow.xaml;BookingView.xaml;EditBookingWindow.xaml;EditGuestWindow.xaml;EditRoomWindow.xaml;GuestView.xaml;LoginWindow.xaml;MainWindow.xaml;RoomsView.xaml;
+
+False
+

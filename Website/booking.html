@@ -2,84 +2,84 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hotel Booking</title>
-  <!-- Link to the external CSS file -->
-  <link rel="stylesheet" href="stylesbooking.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Booking</title>
+    <!-- Link to the external CSS file -->
+    <link rel="stylesheet" href="stylesbooking.css">
 </head>
 
 <body>
-  <div class="container">
-    <h1>Hotel Booking</h1>
-    <form action="submit-booking.php" method="POST">
+    <div class="container">
+        <h1>Hotel Booking</h1>
+        <form id="bookingForm">
 
-      <!-- Full Name and Contact Number in one row -->
-      <div class="row">
-        <div class="input-group">
-          <input type="text" id="name" name="name" placeholder=" " required>
-          <label for="name">Full Name</label>
-        </div>
-        <div class="input-group">
-          <input type="tel" id="contact" name="contact" placeholder=" " required>
-          <label for="contact">Contact Number</label>
-        </div>
-      </div>
+            <!-- Full Name and Contact Number in one row -->
+            <div class="row">
+                <div class="input-group">
+                    <input type="text" id="name" name="name" placeholder=" " required>
+                    <label for="name">Full Name</label>
+                </div>
+                <div class="input-group">
+                    <input type="tel" id="contact" name="contact" placeholder=" " required>
+                    <label for="contact">Contact Number</label>
+                </div>
+            </div>
 
-      <!-- Email Address and Check-in Date in one row -->
-      <div class="row">
-        <div class="input-group">
-          <input type="email" id="email" name="email" placeholder=" " required>
-          <label for="email">Email Address</label>
-        </div>
-        <div class="input-group">
-          <input type="date" id="checkin" name="checkin" required>
-          <label for="checkin">Check-in Date</label>
-        </div>
-      </div>
+            <!-- Email Address and Check-in Date in one row -->
+            <div class="row">
+                <div class="input-group">
+                    <input type="email" id="email" name="email" placeholder=" " required>
+                    <label for="email">Email Address</label>
+                </div>
+                <div class="input-group">
+                    <input type="date" id="checkInDate" name="checkin" required>
+                    <label for="checkInDate">Check-in Date</label>
+                </div>
+            </div>
 
-      <!-- Check-out Date and Number of Guests in one row -->
-      <div class="row">
-        <div class="input-group">
-          <input type="date" id="checkout" name="checkout" required>
-          <label for="checkout">Check-out Date</label>
-        </div>
-        <div class="input-group">
-          <input type="number" id="guests" name="guests" min="1" placeholder=" " required>
-          <label for="guests">Number of Guests</label>
-        </div>
-      </div>
+            <!-- Check-out Date and Number of Guests in one row -->
+            <div class="row">
+                <div class="input-group">
+                    <input type="date" id="checkOutDate" name="checkout" required>
+                    <label for="checkOutDate">Check-out Date</label>
+                </div>
+                <div class="input-group">
+                    <input type="number" id="guestId" name="guests" min="1" placeholder=" " required>
+                    <label for="guestId">Number of Guests</label>
+                </div>
+            </div>
 
-      <!-- Room Types and Room Count -->
-      <div id="roomSelection">
-        <div class="room-selection-group">
-          <div class="input-group">
-            <select id="roomType1" name="roomType1" required>
-              <option value="" disabled selected>Select Room Type</option>
-              <option value="single">Single</option>
-              <option value="double">Double</option>
-              <option value="suite">Suite</option>
-            </select>
-            <label for="roomType1">Room Type</label>
-          </div>
-          <div class="input-group">
-            <input type="number" id="roomCount1" name="roomCount1" min="1" placeholder=" " required>
-            <label for="roomCount1">Room Count</label>
-          </div>
-        </div>
-      </div>
+            <!-- Room Types and Room Count -->
+            <div class="room-selection-group">
+                <div class="input-group">
+                    <select id="roomId" name="roomType" required>
+                        <option value="" disabled selected>Select Room Type</option>
+                        <option value="Single">Single</option>
+                        <option value="Double">Double</option>
+                        <option value="Suite">Suite</option>
+                    </select>
+                    <label for="roomId">Room Type</label>
+                </div>
+                <div class="input-group">
+                    <input type="number" id="roomCount" name="roomCount" min="1" placeholder=" " required>
+                    <label for="roomCount">Room Count</label>
+                </div>
+            </div>
 
-      <!-- Special Requests (full width) -->
-      <div class="input-group">
-        <textarea id="requests" name="requests" rows="4" placeholder=" "></textarea>
-        <label for="requests">Special Requests</label>
-      </div>
+            <!-- Special Requests (full width) -->
+            <div class="input-group">
+                <textarea id="requests" name="requests" rows="4" placeholder=" "></textarea>
+                <label for="requests">Special Requests</label>
+            </div>
 
-      <!-- Submit Button -->
-      <button type="submit">Confirm Booking</button>
-    </form>
-  </div>
-  <script src="scriptbooking.js"></script>
+            <!-- Submit Button -->
+            <button type="submit">Confirm Booking</button>
+        </form>
+    </div>
+
+    <!-- JavaScript to handle form submission -->
+    <script src="scriptbooking.js"></script>
 </body>
 
 </html>
