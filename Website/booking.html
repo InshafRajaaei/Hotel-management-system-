@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hotel Booking</title>
-    <!-- Link to the external CSS file -->
     <link rel="stylesheet" href="stylesbooking.css">
 </head>
 
@@ -13,8 +12,6 @@
     <div class="container">
         <h1>Hotel Booking</h1>
         <form id="bookingForm">
-
-            <!-- Full Name and Contact Number in one row -->
             <div class="row">
                 <div class="input-group">
                     <input type="text" id="name" name="name" placeholder=" " required>
@@ -26,7 +23,6 @@
                 </div>
             </div>
 
-            <!-- Email Address and Check-in Date in one row -->
             <div class="row">
                 <div class="input-group">
                     <input type="email" id="email" name="email" placeholder=" " required>
@@ -38,7 +34,6 @@
                 </div>
             </div>
 
-            <!-- Check-out Date and Number of Guests in one row -->
             <div class="row">
                 <div class="input-group">
                     <input type="date" id="checkOutDate" name="checkout" required>
@@ -50,7 +45,6 @@
                 </div>
             </div>
 
-            <!-- Room Types and Room Count -->
             <div class="room-selection-group">
                 <div class="input-group">
                     <select id="roomId" name="roomType" required>
@@ -67,18 +61,15 @@
                 </div>
             </div>
 
-            <!-- Special Requests (full width) -->
             <div class="input-group">
                 <textarea id="requests" name="requests" rows="4" placeholder=" "></textarea>
                 <label for="requests">Special Requests</label>
             </div>
 
-            <!-- Submit Button -->
             <button type="submit">Confirm Booking</button>
         </form>
     </div>
 
-    <!-- JavaScript to handle form submission -->
     <script src="scriptbooking.js"></script>
 </body>
 

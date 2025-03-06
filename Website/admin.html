@@ -26,13 +26,11 @@
                 </tr>
             </thead>
             <tbody>
-                <!-- Bookings will be populated here -->
             </tbody>
         </table>
     </div>
 
     <script>
-        // Fetch and display bookings
         async function fetchBookings() {
             try {
                 const response = await fetch('http://localhost:3000/bookings');
@@ -59,7 +57,6 @@
             }
         }
 
-        // Fetch bookings when the page loads
         window.addEventListener('load', fetchBookings);
     </script>
 </body>
