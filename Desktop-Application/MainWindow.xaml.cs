@@ -9,25 +9,18 @@ namespace HotelMS
         public MainWindow()
         {
             InitializeComponent();
-
-            // Set the default tab (Rooms)
             TabButton_Click(RoomsButton, new RoutedEventArgs());
         }
-
         private void TabButton_Click(object sender, RoutedEventArgs? e)
         {
-            // Reset the background of all buttons
             RoomsButton.Background = Brushes.Transparent;
             GuestsButton.Background = Brushes.Transparent;
             BookingsButton.Background = Brushes.Transparent;
 
-            // Change the background of the clicked button
             if (sender is Button clickedButton)
             {
-                clickedButton.Background = new SolidColorBrush(Color.FromRgb(52, 152, 219)); // Light blue color
+                clickedButton.Background = new SolidColorBrush(Color.FromRgb(52, 152, 219));
             }
-
-            // Load the appropriate content
             if (sender == RoomsButton)
             {
                 ContentArea.Content = new RoomsView();
@@ -42,8 +35,7 @@ namespace HotelMS
             }
             else
             {
-                // Handle the case where sender is not one of the expected buttons
-                ContentArea.Content = new UserControl(); // Assign a default or empty control
+                ContentArea.Content = new UserControl(); 
             }
         }
     }

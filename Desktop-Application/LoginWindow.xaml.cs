@@ -14,19 +14,14 @@ namespace HotelMS
             string username = UsernameTextBox.Text;
             string password = PasswordBox.Password;
 
-            // Validate credentials (you can replace this with a database check)
             if (username == "admin" && password == "1234")
             {
-                // Open the MainWindow
                 MainWindow mainWindow = new MainWindow();
                 mainWindow.Show();
-
-                // Close the LoginWindow
                 this.Close();
             }
             else
             {
-                // Show error message
                 ErrorMessage.Text = "Invalid username or password.";
                 ErrorMessage.Visibility = Visibility.Visible;
             }

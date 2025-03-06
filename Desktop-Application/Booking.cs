@@ -7,7 +7,6 @@
     public DateTime CheckOutDate { get; set; }
     public decimal TotalCost { get; set; }
 
-    // Navigation properties (optional)
     public Room? Room { get; set; }
     public Guest? Guest { get; set; }
 }

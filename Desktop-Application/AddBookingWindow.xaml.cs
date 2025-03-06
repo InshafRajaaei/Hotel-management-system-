@@ -8,7 +8,6 @@ namespace HotelMS
     {
         public Booking NewBooking { get; private set; }
         private HotelDbContext _dbContext;
-
         public AddBookingWindow(HotelDbContext dbContext)
         {
             InitializeComponent();
@@ -19,21 +18,17 @@ namespace HotelMS
 
         private void LoadAvailableRooms()
         {
-            // Load rooms that are not occupied
             var availableRooms = _dbContext.Rooms.Where(r => !r.IsOccupied).ToList();
             RoomComboBox.ItemsSource = availableRooms;
         }
-
         private void LoadGuests()
         {
-            // Load all guests
             var guests = _dbContext.Guests.ToList();
             GuestComboBox.ItemsSource = guests;
         }
 
         private void Save_Click(object sender, RoutedEventArgs e)
         {
-            // Validate input
             if (RoomComboBox.SelectedItem is not Room selectedRoom ||
                 GuestComboBox.SelectedItem is not Guest selectedGuest ||
                 CheckInDatePicker.SelectedDate == null ||
@@ -44,7 +39,6 @@ namespace HotelMS
                 return;
             }
 
-            // Create a new booking object
             NewBooking = new Booking
             {
                 RoomId = selectedRoom.RoomId,
@@ -54,14 +48,11 @@ namespace HotelMS
                 TotalCost = totalCost
             };
 
-            // Close the window
             DialogResult = true;
             Close();
         }
-
         private void Cancel_Click(object sender, RoutedEventArgs e)
         {
-            // Close the window without saving
             DialogResult = false;
             Close();
         }

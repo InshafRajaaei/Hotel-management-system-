@@ -5,18 +5,14 @@
         WindowStartupLocation="CenterScreen"
         Background="#ffffff">
     <Grid>
-        <!-- Main Layout Grid -->
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
-            <!-- Header -->
             <RowDefinition Height="*" />
-            <!-- Content -->
         </Grid.RowDefinitions>
 
-        <!-- Header -->
         <Border Grid.Row="0" Background="#A67C52" Padding="25">
             <StackPanel>
-                <Image Source="/Assets/Images/logo.png" 
+                <Image Source="/Assets/Images/logo1.png" 
                        Width="70" 
                        Height="70" 
                        Margin="0,0,0,0" 
@@ -34,18 +30,13 @@
             </StackPanel>
         </Border>
 
-        <!-- Content -->
         <Grid Grid.Row="1" Margin="20">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto" />
-                <!-- Tabs -->
                 <ColumnDefinition Width="*" />
-                <!-- Content Area -->
             </Grid.ColumnDefinitions>
 
-            <!-- Tabs on the Left Side -->
             <StackPanel Grid.Column="0" Background="#8C6745" Width="150">
-                <!-- Rooms Tab -->
                 <Button x:Name="RoomsButton" 
                         Content="Rooms" 
                         Background="Transparent" 
@@ -57,7 +48,6 @@
                         HorizontalAlignment="Stretch" 
                         Click="TabButton_Click" />
 
-                <!-- Guests Tab -->
                 <Button x:Name="GuestsButton" 
                         Content="Guests" 
                         Background="Transparent" 
@@ -69,7 +59,6 @@
                         HorizontalAlignment="Stretch" 
                         Click="TabButton_Click" />
 
-                <!-- Bookings Tab -->
                 <Button x:Name="BookingsButton" 
                         Content="Bookings" 
                         Background="Transparent" 
@@ -82,7 +71,6 @@
                         Click="TabButton_Click" />
             </StackPanel>
 
-            <!-- Content Area on the Right Side -->
             <Border Grid.Column="1" 
                     Background="#ffffff" 
                     CornerRadius="10" 
