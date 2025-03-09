@@ -3,91 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\roomsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:roomsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\assets\\images\\logo1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:assets\\images\\logo1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\assets\\images\\logo2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:assets\\images\\logo2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\bookingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:bookingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\bookingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:bookingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\editguestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:editguestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\editguestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:editguestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\guestview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:guestview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addguestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addguestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\roomsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:roomsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addguestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addguestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\guestview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:guestview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\bookingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:bookingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\roomsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:roomsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\guestview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:guestview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\editroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,28 +59,12 @@
       "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:editroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\editguestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:editguestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\roomsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:roomsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\editguestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:editguestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\editbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -128,6 +73,69 @@
     {
       "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\editbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:editbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\bookingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:bookingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addroomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addroomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addguestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addguestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addguestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addguestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\addbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:addbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\migrations\\20250302080227_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:migrations\\20250302080227_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\migrations\\hoteldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:migrations\\hoteldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\assets\\images\\logo2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:assets\\images\\logo2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|c:\\users\\inshaf rajayee\\documents\\github\\hotel-management-system-\\desktop-application\\assets\\images\\logo1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{51BFB472-32E1-4555-96DC-4C911C255231}|HotelMS.csproj|solutionrelative:assets\\images\\logo1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -137,24 +145,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "AddBookingWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddBookingWindow.xaml.cs",
               "RelativeDocumentMoniker": "AddBookingWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddBookingWindow.xaml.cs",
               "RelativeToolTip": "AddBookingWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T17:41:21.455Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "LoginWindow.xaml",
@@ -163,18 +171,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-06T01:00:55.399Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "logo1.png - PNG [250x59, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Assets\\Images\\logo1.png",
-              "RelativeDocumentMoniker": "Assets\\Images\\logo1.png",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Assets\\Images\\logo1.png - PNG [250x59, 32 bit, PNG]",
-              "RelativeToolTip": "Assets\\Images\\logo1.png - PNG [250x59, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-06T18:18:15.938Z",
-              "EditorCaption": " - PNG [250x59, 32 bit, PNG]"
             },
             {
               "$type": "Document",
@@ -191,90 +187,151 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "logo2.png - PNG [250x59, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Assets\\Images\\logo2.png",
-              "RelativeDocumentMoniker": "Assets\\Images\\logo2.png",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Assets\\Images\\logo2.png - PNG [250x59, 32 bit, PNG]",
-              "RelativeToolTip": "Assets\\Images\\logo2.png - PNG [250x59, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-06T18:18:21.073Z",
-              "EditorCaption": " - PNG [250x59, 32 bit, PNG]"
+              "Title": "GuestView.xaml",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\GuestView.xaml",
+              "RelativeDocumentMoniker": "GuestView.xaml",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\GuestView.xaml",
+              "RelativeToolTip": "GuestView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T01:00:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:01:22.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\RoomsView.xaml",
+              "RelativeDocumentMoniker": "RoomsView.xaml",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\RoomsView.xaml",
+              "RelativeToolTip": "RoomsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T01:01:35.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Microsoft.WinFX.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
-              "ViewState": "AgIAALUCAAAAAAAAAAAiwMICAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-06T18:21:53.558Z",
+              "Title": "BookingView.xaml",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\BookingView.xaml",
+              "RelativeDocumentMoniker": "BookingView.xaml",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\BookingView.xaml",
+              "RelativeToolTip": "BookingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T17:31:20.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AddBookingWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddBookingWindow.xaml",
-              "RelativeDocumentMoniker": "AddBookingWindow.xaml",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddBookingWindow.xaml",
-              "RelativeToolTip": "AddBookingWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-05T17:30:53.82Z"
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:01:03.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "RoomsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\RoomsView.xaml.cs",
+              "RelativeDocumentMoniker": "RoomsView.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\RoomsView.xaml.cs",
+              "RelativeToolTip": "RoomsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:01:43.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:01:28.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HotelDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\HotelDbContext.cs",
               "RelativeDocumentMoniker": "HotelDbContext.cs",
               "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\HotelDbContext.cs",
               "RelativeToolTip": "HotelDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T18:09:30.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "GuestView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\GuestView.xaml.cs",
+              "RelativeDocumentMoniker": "GuestView.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\GuestView.xaml.cs",
+              "RelativeToolTip": "GuestView.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T00:59:01.822Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T00:58:52.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T01:00:47.802Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "BookingView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\BookingView.xaml.cs",
-              "RelativeDocumentMoniker": "BookingView.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\BookingView.xaml.cs",
-              "RelativeToolTip": "BookingView.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEUAAAAtAAAAAAAAAA==",
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Guest.cs",
+              "RelativeToolTip": "Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T17:36:40.597Z"
+              "WhenOpened": "2025-03-06T01:00:33.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditRoomWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EditRoomWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditRoomWindow.xaml.cs",
+              "RelativeToolTip": "EditRoomWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:00:27.652Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "EditRoomWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditRoomWindow.xaml",
+              "RelativeDocumentMoniker": "EditRoomWindow.xaml",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditRoomWindow.xaml",
+              "RelativeToolTip": "EditRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T17:31:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "EditGuestWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditGuestWindow.xaml.cs",
               "RelativeDocumentMoniker": "EditGuestWindow.xaml.cs",
@@ -286,30 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookingView.xaml",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\BookingView.xaml",
-              "RelativeDocumentMoniker": "BookingView.xaml",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\BookingView.xaml",
-              "RelativeToolTip": "BookingView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-05T17:31:20.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T00:59:12.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "EditGuestWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditGuestWindow.xaml",
               "RelativeDocumentMoniker": "EditGuestWindow.xaml",
@@ -320,182 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GuestView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\GuestView.xaml.cs",
-              "RelativeDocumentMoniker": "GuestView.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\GuestView.xaml.cs",
-              "RelativeToolTip": "GuestView.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:00:47.802Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "AddGuestWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddGuestWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AddGuestWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddGuestWindow.xaml.cs",
-              "RelativeToolTip": "AddGuestWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T00:58:29.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RoomsView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\RoomsView.xaml.cs",
-              "RelativeDocumentMoniker": "RoomsView.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\RoomsView.xaml.cs",
-              "RelativeToolTip": "RoomsView.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAvwCQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:01:43.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AddGuestWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddGuestWindow.xaml",
-              "RelativeDocumentMoniker": "AddGuestWindow.xaml",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddGuestWindow.xaml",
-              "RelativeToolTip": "AddGuestWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-05T18:08:07.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GuestView.xaml",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\GuestView.xaml",
-              "RelativeDocumentMoniker": "GuestView.xaml",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\GuestView.xaml",
-              "RelativeToolTip": "GuestView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T01:00:39.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Guest.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Guest.cs",
-              "RelativeDocumentMoniker": "Guest.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Guest.cs",
-              "RelativeToolTip": "Guest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:00:33.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EditRoomWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditRoomWindow.xaml.cs",
-              "RelativeDocumentMoniker": "EditRoomWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditRoomWindow.xaml.cs",
-              "RelativeToolTip": "EditRoomWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:00:27.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "EditRoomWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditRoomWindow.xaml",
-              "RelativeDocumentMoniker": "EditRoomWindow.xaml",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditRoomWindow.xaml",
-              "RelativeToolTip": "EditRoomWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T17:31:34.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AddRoomWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddRoomWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AddRoomWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddRoomWindow.xaml.cs",
-              "RelativeToolTip": "AddRoomWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T00:58:45.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Room.cs",
-              "RelativeDocumentMoniker": "Room.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Room.cs",
-              "RelativeToolTip": "Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:01:28.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AddRoomWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddRoomWindow.xaml",
-              "RelativeDocumentMoniker": "AddRoomWindow.xaml",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddRoomWindow.xaml",
-              "RelativeToolTip": "AddRoomWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T00:58:37.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RoomsView.xaml",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\RoomsView.xaml",
-              "RelativeDocumentMoniker": "RoomsView.xaml",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\RoomsView.xaml",
-              "RelativeToolTip": "RoomsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T01:01:35.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:01:22.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Booking.cs",
-              "RelativeDocumentMoniker": "Booking.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Booking.cs",
-              "RelativeToolTip": "Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T00:59:18.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "LoginWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:01:03.991Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "EditBookingWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditBookingWindow.xaml.cs",
               "RelativeDocumentMoniker": "EditBookingWindow.xaml.cs",
@@ -507,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 17,
               "Title": "EditBookingWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\EditBookingWindow.xaml",
               "RelativeDocumentMoniker": "EditBookingWindow.xaml",
@@ -515,6 +374,183 @@
               "RelativeToolTip": "EditBookingWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-05T17:55:02.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\BookingView.xaml.cs",
+              "RelativeDocumentMoniker": "BookingView.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\BookingView.xaml.cs",
+              "RelativeToolTip": "BookingView.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:36:40.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Booking.cs",
+              "RelativeDocumentMoniker": "Booking.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Booking.cs",
+              "RelativeToolTip": "Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T00:59:18.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T00:59:12.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T00:59:01.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddRoomWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddRoomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddRoomWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddRoomWindow.xaml.cs",
+              "RelativeToolTip": "AddRoomWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T00:58:45.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddRoomWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddRoomWindow.xaml",
+              "RelativeDocumentMoniker": "AddRoomWindow.xaml",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddRoomWindow.xaml",
+              "RelativeToolTip": "AddRoomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T00:58:37.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddGuestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddGuestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AddGuestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddGuestWindow.xaml.cs",
+              "RelativeToolTip": "AddGuestWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T00:58:29.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddGuestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddGuestWindow.xaml",
+              "RelativeDocumentMoniker": "AddGuestWindow.xaml",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddGuestWindow.xaml",
+              "RelativeToolTip": "AddGuestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T18:08:07.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddBookingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddBookingWindow.xaml",
+              "RelativeDocumentMoniker": "AddBookingWindow.xaml",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\AddBookingWindow.xaml",
+              "RelativeToolTip": "AddBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T17:30:53.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250302080227_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Migrations\\20250302080227_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250302080227_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Migrations\\20250302080227_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250302080227_InitialCreate.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:12:59.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HotelDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\HotelDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\HotelDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:13:04.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T00:58:52.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "logo1.png - PNG [250x59, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Assets\\Images\\logo1.png",
+              "RelativeDocumentMoniker": "Assets\\Images\\logo1.png",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Assets\\Images\\logo1.png - PNG [250x59, 32 bit, PNG]",
+              "RelativeToolTip": "Assets\\Images\\logo1.png - PNG [250x59, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-06T18:18:15.938Z",
+              "EditorCaption": " - PNG [250x59, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "logo2.png - PNG [250x59, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Assets\\Images\\logo2.png",
+              "RelativeDocumentMoniker": "Assets\\Images\\logo2.png",
+              "ToolTip": "C:\\Users\\Inshaf Rajayee\\Documents\\GitHub\\Hotel-management-system-\\Desktop-Application\\Assets\\Images\\logo2.png - PNG [250x59, 32 bit, PNG]",
+              "RelativeToolTip": "Assets\\Images\\logo2.png - PNG [250x59, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-06T18:18:21.073Z",
+              "EditorCaption": " - PNG [250x59, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Microsoft.WinFX.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
+              "ViewState": "AgIAALUCAAAAAAAAAAAiwMICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-06T18:21:53.558Z"
             }
           ]
         }

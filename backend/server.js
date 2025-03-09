@@ -53,6 +53,45 @@ app.get('/bookings', (req, res) => {
   });
 });
 
+// DELETE endpoint to delete a booking
+app.delete('/bookings/:id', (req, res) => {
+  const { id } = req.params;
+
+  const query = `DELETE FROM bookings WHERE id = ?;`;
+
+  db.run(query, [id], function (err) {
+    if (err) {
+      console.error("Error deleting booking:", err.message);
+      res.status(500).json({ error: "Failed to delete booking." });
+    } else {
+      console.log("Booking deleted with ID:", id);
+      res.status(200).json({ message: 'Booking deleted successfully!' });
+    }
+  });
+});
+
+// PUT endpoint to update a booking
+app.put('/bookings/:id', (req, res) => {
+  const { id } = req.params;
+  const { name, contact, email, checkInDate, checkOutDate, guests, roomType, roomCount, specialRequests } = req.body;
+
+  const query = `
+    UPDATE bookings
+    SET name = ?, contact = ?, email = ?, checkInDate = ?, checkOutDate = ?, guests = ?, roomType = ?, roomCount = ?, specialRequests = ?
+    WHERE id = ?;
+  `;
+
+  db.run(query, [name, contact, email, checkInDate, checkOutDate, guests, roomType, roomCount, specialRequests, id], function (err) {
+    if (err) {
+      console.error("Error updating booking:", err.message);
+      res.status(500).json({ error: "Failed to update booking." });
+    } else {
+      console.log("Booking updated with ID:", id);
+      res.status(200).json({ message: 'Booking updated successfully!' });
+    }
+  });
+});
+
 // Start the server
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);

@@ -23,6 +23,7 @@
                     <th>Room Count</th>
                     <th>Special Requests</th>
                     <th>Created At</th>
+                    <th>Actions</th>
                 </tr>
             </thead>
             <tbody>
@@ -50,11 +51,38 @@
                         <td>${booking.roomCount}</td>
                         <td>${booking.specialRequests}</td>
                         <td>${booking.created_at}</td>
+                        <td>
+                            <button onclick="editBooking(${booking.id})">Edit</button>
+                            <button onclick="deleteBooking(${booking.id})">Delete</button>
+                        </td>
                     </tr>
                 `).join('');
             } catch (error) {
                 console.error('Error fetching bookings:', error);
             }
+        }
+
+        async function deleteBooking(id) {
+            try {
+                const response = await fetch(`http://localhost:3000/bookings/${id}`, {
+                    method: 'DELETE'
+                });
+
+                if (response.ok) {
+                    alert('Booking deleted successfully!');
+                    fetchBookings(); // Refresh the list
+                } else {
+                    alert('Failed to delete booking.');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Failed to delete booking.');
+            }
+        }
+
+        function editBooking(id) {
+            // Redirect to an edit page or open a modal with the booking details
+            window.location.href = `edit-booking.html?id=${id}`;
         }
 
         window.addEventListener('load', fetchBookings);

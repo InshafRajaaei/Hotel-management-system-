@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Booking</title>
+    <link rel="stylesheet" href="stylesbooking.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Edit Booking</h1>
+        <form id="editBookingForm">
+            <div class="row">
+                <div class="input-group">
+                    <input type="text" id="name" name="name" placeholder=" " required>
+                    <label for="name">Full Name</label>
+                </div>
+                <div class="input-group">
+                    <input type="tel" id="contact" name="contact" placeholder=" " required>
+                    <label for="contact">Contact Number</label>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="input-group">
+                    <input type="email" id="email" name="email" placeholder=" " required>
+                    <label for="email">Email Address</label>
+                </div>
+                <div class="input-group">
+                    <input type="number" id="guestId" name="guests" min="1" placeholder=" " required>
+                    <label for="guestId">Number of Guests</label>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="input-group">
+                    <input type="date" id="checkInDate" name="checkin" required>
+                    <label for="checkInDate">Check-in Date</label>
+                </div>
+                <div class="input-group">
+                    <input type="date" id="checkOutDate" name="checkout" required>
+                    <label for="checkOutDate">Check-out Date</label>
+                </div>
+            </div>
+
+            <div class="room-selection-group">
+                <div class="input-group">
+                    <select id="roomId" name="roomType" required>
+                        <option value="" disabled selected>Select Room Type</option>
+                        <option value="Single">Single</option>
+                        <option value="Double">Double</option>
+                        <option value="Suite">Suite</option>
+                    </select>
+                    <label for="roomId">Room Type</label>
+                </div>
+                <div class="input-group">
+                    <input type="number" id="roomCount" name="roomCount" min="1" placeholder=" " required>
+                    <label for="roomCount">Room Count</label>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <textarea id="requests" name="requests" rows="4" placeholder=" "></textarea>
+                <label for="requests">Special Requests</label>
+            </div>
+
+            <button type="submit">Update Booking</button>
+        </form>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const bookingId = urlParams.get('id');
+
+        async function fetchBookingDetails() {
+            try {
+                const response = await fetch(`http://localhost:3000/bookings/${bookingId}`);
+                const booking = await response.json();
+
+                document.getElementById('name').value = booking.name;
+                document.getElementById('contact').value = booking.contact;
+                document.getElementById('email').value = booking.email;
+                document.getElementById('guestId').value = booking.guests;
+                document.getElementById('checkInDate').value = booking.checkInDate;
+                document.getElementById('checkOutDate').value = booking.checkOutDate;
+                document.getElementById('roomId').value = booking.roomType;
+                document.getElementById('roomCount').value = booking.roomCount;
+                document.getElementById('requests').value = booking.specialRequests;
+            } catch (error) {
+                console.error('Error fetching booking details:', error);
+            }
+        }
+
+        document.getElementById('editBookingForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const updatedBooking = {
+                name: document.getElementById('name').value,
+                contact: document.getElementById('contact').value,
+                email: document.getElementById('email').value,
+                checkInDate: document.getElementById('checkInDate').value,
+                checkOutDate: document.getElementById('checkOutDate').value,
+                guests: document.getElementById('guestId').value,
+                roomType: document.getElementById('roomId').value,
+                roomCount: document.getElementById('roomCount').value,
+                specialRequests: document.getElementById('requests').value
+            };
+
+            try {
+                const response = await fetch(`http://localhost:3000/bookings/${bookingId}`, {
+                    method: 'PUT',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(updatedBooking)
+                });
+
+                if (response.ok) {
+                    alert('Booking updated successfully!');
+                    window.location.href = 'admin.html';
+                } else {
+                    alert('Failed to update booking.');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Failed to update booking.');
+            }
+        });
+
+        window.addEventListener('load', fetchBookingDetails);
+    </script>
+</body>
+</html>

@@ -76,7 +76,7 @@ namespace HotelMS {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HotelMS;V1.0.0.0;component/addroomwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HotelMS;component/addroomwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddRoomWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
