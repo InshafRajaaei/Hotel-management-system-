@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('assets/images/bookingbg.jpg'); /* Replace 'background.jpg' with your image path */
+    background-image: url('assets/images/bookingbg.png'); /* Replace 'background.jpg' with your image path */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
